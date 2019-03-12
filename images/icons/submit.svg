@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="127px" viewBox="0 0 121 127" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-21.9%" y="-20.7%" width="143.8%" height="141.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="80.6572045%" y1="-7.70855549%" x2="42.0602773%" y2="114.566101%" id="linearGradient-2">
+            <stop stop-color="#FF2A76" offset="0%"></stop>
+            <stop stop-color="#9013FE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-100.0%" y="-100.0%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage_dropdown" transform="translate(-664.000000, -2476.000000)" fill-rule="nonzero">
+            <g id="Group-2" filter="url(#filter-1)" transform="translate(668.000000, 2480.000000)">
+                <path d="M1.2766679,33.9064237 C5.0685672,14.8688972 32.1401529,-5.97363926 63.8227091,1.59097879 C95.5052654,9.15559684 108.54837,21.8536361 104.18063,46.5774174 C99.8128893,71.3011987 61.2590539,117.470903 30.977302,110.240745 C0.695550145,103.010587 -2.51523139,52.9439502 1.2766679,33.9064237 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <g id="Group" filter="url(#filter-3)" transform="translate(42.000000, 45.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="10">
+                    <path d="M0,10.5720339 L21,10.5720339" id="Line"></path>
+                    <path d="M10.9279661,21 L10.9279661,0" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
