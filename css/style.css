@@ -179,7 +179,7 @@ div.mobile-menu > div.wrap > nav ul > li.account > div > span {padding-left: 5px
 div.mobile-menu > div.wrap > nav ul > li.account > div > .icon {position: relative; margin-left: 3px;}
 div.mobile-menu > div.wrap > nav ul > li.account > div > .icon span {position: absolute; background: #FA454B; width: 10px; height: 10px; bottom: -2px; left: -3px; border-radius: 50%;}
 
-div.mobile-menu > div.wrap > nav ul > li.account > ul {margin-left: 28px;}
+div.mobile-menu > div.wrap > nav ul > li.account > ul {margin-left: 28px; padding-bottom: 5px;}
 div.mobile-menu > div.wrap > nav ul > li.account > ul > li > a {font-size: 12px; line-height: 20px; color: #fff;}
 div.mobile-menu > div.wrap > nav ul > li.account > ul > li > a:hover {color: #CFB995;}
 
