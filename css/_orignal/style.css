@@ -104,7 +104,7 @@ main div#main > div.carousel div.block > div .foot {max-width: 210px; font-famil
 main div#main > div.carousel > .slick-arrow {position: absolute; width: 40px; height: 40px; top: 50%; margin-top: -20px; border: 0; padding: 0; font-size: 0; box-shadow: 0 0 5px rgba(51, 51, 51, .35); outline: none; z-index: 10; cursor: pointer;}
 main div#main > div.carousel > .slick-arrow.slick-prev {background: url(../images/icons/arrow-left.svg) no-repeat; background-position: center; left: -40px;}
 main div#main > div.carousel > .slick-arrow.slick-next {background: url(../images/icons/arrow-right.svg) no-repeat; background-position: center; right: -40px;}
-main div#main > div.carousel > .slick-arrow.slick-disabled {/*background-color: rgba(128, 128, 128, .25);*/ opacity: .5; cursor: auto;}
+main div#main > div.carousel > .slick-arrow.slick-disabled {opacity: .5; cursor: auto;}
 
 
 /*  BADGES  */
@@ -161,7 +161,6 @@ body.open:before {left: 0; transition: .5s ease;}
 div.mobile-menu.open {opacity: 1; visibility: visible; transition: .5s ease .6s;}
 
 div.mobile-menu {position: fixed; width: 250px; height: 100%; opacity: 0; visibility: hidden; z-index: 20; transition: .5s ease;}
-div.mobile-menu > div.wrap {}
 div.mobile-menu > div.wrap > svg {padding: 29px 0 0 20px;}
 div.mobile-menu > div.wrap > nav {position: absolute; width: 210px; top: 46px; bottom: 0; padding: 20px; overflow: hidden;}
 div.mobile-menu > div.wrap > nav ul {list-style: none; height: 100%; margin: 0; padding: 0;}
