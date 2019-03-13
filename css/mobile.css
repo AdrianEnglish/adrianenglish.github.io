@@ -31,7 +31,7 @@
 }
 @media only screen and (max-width: 600px){
   div#feature > div.top-offers {max-width: 280px;}
-  div#feature > div.top-offers > .offers {background: none;}
+  div#feature > div.top-offers > .offers {background: none; box-shadow: none;}
   div#feature > div.top-offers > .offers > div:before {display: none;}
   div#feature > div.top-offers > .offers > div {background: #fff; border: 2px solid #9013FE; padding: 10px 5px; text-align: center;}
   div#feature > div.top-offers > .offers > div > div.vehicle {display: block; position: static; padding: 0 0 10px;}

@@ -139,7 +139,7 @@ div#feature > div.slider .slide .layers > .layer.button {background: #FA454B; wi
 
 /*  TOP OFFERS  */
 div#feature > div.top-offers {max-width: 925px; margin: auto; padding: 0 20px;}
-div#feature > div.top-offers > .offers {background: #fff;}
+div#feature > div.top-offers > .offers {background: #fff; box-shadow: 0 0 150px #fff;}
 div#feature > div.top-offers > .offers > div {position: relative; margin: 20px 0; font-size: 0; line-height: 40px;}
 div#feature > div.top-offers > .offers > div:before {content: ''; position: absolute; background: #9013FE; width: 100%; height: 2px; bottom: 0;}
 div#feature > div.top-offers > .offers > div > div.vehicle {position: relative; padding: 0 20px 0 0; font-family: 'Montserrat-Medium'; font-size: 16px; line-height: 20px;}
