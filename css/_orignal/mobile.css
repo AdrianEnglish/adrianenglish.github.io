@@ -67,8 +67,8 @@
   div#feature > div.slider .slide .layers > .layer.top-text {width: 200px; top: 20px; left: 50%; margin-left: -140px; font-size: 14px; line-height: 22px;}
   div#feature > div.slider .slide .layers > .layer.top-text > span {font-size: 10px; line-height: 18px;}
   div#feature > div.slider .slide .layers > .layer.top-box {width: 280px; top: 10px; left: 50%; margin-left: -140px; text-align: right;}
-  div#feature > div.slider .slide .layers > .layer.box {width: 280px; top: 100px; left: 50%; margin-left: -140px; box-sizing: border-box;}
-  div#feature > div.slider .slide .layers > .layer.button {width: 280px; top: 245px; left: 50%; margin-left: -140px;}
+  div#feature > div.slider .slide .layers > .layer.box {width: 280px; top: 110px; left: 50%; margin-left: -140px; box-sizing: border-box;}
+  div#feature > div.slider .slide .layers > .layer.button {width: 280px; top: 255px; left: 50%; margin-left: -140px;}
 }
 @media only screen and (max-width: 400px){
   main div#main > div.carousel {max-width: 240px;}
