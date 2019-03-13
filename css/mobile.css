@@ -52,8 +52,8 @@
   div#banner > div.slider .slide .layers > .layer.overlay {width: 100%; height: 100%;}
   div#banner > div.slider .slide .layers > .layer.heading {width: 100%; top: 50px; font-size: 24px; line-height: 32px;}
   div#banner > div.slider .slide .layers > .layer.text {width: 220px; top: 140px; left: 50%; margin-left: -110px; font-size: 14px; line-height: 20px;}
-  div#banner > div.slider .slide .layers > .layer.select-button {width: 280px; top: 270px; left: 50%; margin-left: -140px;}
-  div#banner > div.slider .slide .layers > .layer.find-button {width: 280px; top: 325px; left: 50%; margin-left: -140px;}
+  div#banner > div.slider .slide .layers > .layer.select-button {width: 280px; top: 260px; left: 50%; margin-left: -140px;}
+  div#banner > div.slider .slide .layers > .layer.find-button {width: 280px; top: 315px; left: 50%; margin-left: -140px;}
   
   main div#brands > div > div.badges > div {padding: 20px 0;}
   main div#brands > div > div.badges > div > img {width: 75px;}
