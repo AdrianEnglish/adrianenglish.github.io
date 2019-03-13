@@ -149,14 +149,16 @@ div#feature > div.top-offers > .offers > div > div span.rating {background: #F1E
 div#feature > div.top-offers > .offers > div > div span.button {background: #3BB273; width: 140px; margin-left: 20px; font-family: 'Montserrat-Medium'; color: #fff; text-align: center;}
 
 
-/*  Footer  */
+/*  FOOTER  */
 footer div#footer {text-align: center;}
 footer div#footer > span {display: block; margin: 0 0 25px; font-family: 'Montserrat-SemiBold'; font-size: 32px; line-height: 42px;}
 
 
-/*  Mobile Menu  */
+/*  MOBILE MENU  */
 body.open {position: fixed;}
 body.open:before {left: 0; transition: .5s ease;}
+
+div.mobile-menu.open {opacity: 1; visibility: visible; transition: .5s ease .6s;}
 
 div.mobile-menu {position: fixed; width: 250px; height: 100%; opacity: 0; visibility: hidden; z-index: 20; transition: .5s ease;}
 div.mobile-menu > div.wrap {}
@@ -195,12 +197,3 @@ header .hamburger.open > div > span.line.two {opacity: 0;}
 header .hamburger.open > div > span.line.three {top: 9px; transform: rotate(-45deg);}
 
 header .hamburger.open > div:hover > span.line {background: #FA454B; border-color: #FA454B;}
-
-div.mobile-menu.open {opacity: 1; visibility: visible; transition: .5s ease .6s;}
-
-
-
-
-
-
-
