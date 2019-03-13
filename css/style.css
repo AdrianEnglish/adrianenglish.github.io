@@ -63,6 +63,7 @@ header .hamburger > div:hover > span.line {background: #333;}
 
 
 /*  BANNER  */
+div#banner > div.slider {overflow: hidden;}
 div#banner > div.slider .slide {position: relative; overflow: hidden;}
 div#banner > div.slider .slide img {display: block;}
 div#banner > div.slider .slide .backgrounds {position: absolute; width: 100%; height: 100%; top: 0; left: 0;}
