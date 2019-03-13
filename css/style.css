@@ -158,13 +158,13 @@ body.open:before {left: 0; transition: .5s ease;}
 div.mobile-menu {position: fixed; width: 250px; height: 100%; opacity: 0; visibility: hidden; z-index: 20; transition: .5s ease;}
 div.mobile-menu > div.wrap {}
 div.mobile-menu > div.wrap > svg {padding: 29px 0 0 20px;}
-div.mobile-menu > div.wrap > nav {position: absolute; width: 210px; top: 46px; bottom: 0; padding: 20px;}
+div.mobile-menu > div.wrap > nav {position: absolute; width: 210px; top: 46px; bottom: 0; padding: 20px; overflow: hidden;}
 div.mobile-menu > div.wrap > nav ul {list-style: none; height: 100%; margin: 0; padding: 0;}
 div.mobile-menu > div.wrap > nav ul li {color: #fff;}
 div.mobile-menu > div.wrap > nav ul li a {text-decoration: none; transition: .5s ease;}
 div.mobile-menu > div.wrap > nav ul li a:hover {color: #CFB995;}
 
-div.mobile-menu > div.wrap > nav > ul {overflow: scroll;}
+div.mobile-menu > div.wrap > nav > ul {margin-right: -50px; padding-right: 50px; overflow-y: scroll;}
 div.mobile-menu > div.wrap > nav ul li svg path {transition: .5s ease;}
 div.mobile-menu > div.wrap > nav ul li svg circle {transition: .5s ease;}
 
